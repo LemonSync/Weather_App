@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-  Cek Websitenya <a href="https://lemonsync.github.io/Weather_App/index.html">Klik Saya</a>
+  Cek Websitenya <a href="https://lemonsync.github.io/Weather_App/main.html">Klik Saya</a>
 </p>
 
 <p align="center">
