@@ -1,3 +1,10 @@
+### Kalo Mau Ngambil Kodenya, Jangan Lupa Follow.
+### Atau Minimal Bayar Pake Star Lah 🌟....
+
+<br>
+<br>
+<br>
+
 <h1 align="center">
   ⛅ Weather App 🌦
 </h1>
